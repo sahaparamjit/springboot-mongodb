@@ -12,7 +12,8 @@ target/
 .settings
 .springBeans
 .sts4-cache
-
+.theia
+settings.json
 ### IntelliJ IDEA ###
 .idea
 *.iws
