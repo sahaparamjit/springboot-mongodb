@@ -17,7 +17,7 @@ Object Pool Pattern - Not known
 
 
 #### Behavioural Pattern
-Chain of Responsibility
+~~Chain of Responsibility~~
 Command Pattern
 Observer Pattern
 Strategy Pattern
