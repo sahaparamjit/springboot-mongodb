@@ -9,7 +9,7 @@
 
 #### Creational pattern
 ~~Factory Method Pattern - Experienced but practice~~
-Abstract Factory Pattern - Used in few situations
+~~Abstract Factory Pattern - Used in few situations~~
 Singleton Pattern - Experienced but practice
 Prototype Pattern - Never got a chance to practice
 Builder Pattern - Experienced but practice
