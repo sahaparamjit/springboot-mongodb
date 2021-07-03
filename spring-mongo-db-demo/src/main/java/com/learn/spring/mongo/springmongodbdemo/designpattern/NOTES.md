@@ -8,7 +8,7 @@
 
 
 #### Creational pattern
-Factory Method Pattern - Experienced but practice
+~~Factory Method Pattern - Experienced but practice~~
 Abstract Factory Pattern - Used in few situations
 Singleton Pattern - Experienced but practice
 Prototype Pattern - Never got a chance to practice
@@ -26,6 +26,6 @@ Template Pattern
 #### Structural Pattern
 1. Adapter Pattern
 2. Bridge Pattern
-3. Decorator Pattern
+3. ~~Decorator Pattern~~
 4. Facade Pattern
 5. Composite Pattern
