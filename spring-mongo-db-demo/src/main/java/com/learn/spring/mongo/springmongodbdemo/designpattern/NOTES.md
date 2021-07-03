@@ -8,12 +8,12 @@
 
 
 #### Creational pattern
-~~Factory Method Pattern - Experienced but practice~~
-~~Abstract Factory Pattern - Used in few situations~~
-Singleton Pattern - Experienced but practice
-Prototype Pattern - Never got a chance to practice
-Builder Pattern - Experienced but practice
-Object Pool Pattern - Not known
+1. ~~Factory Method Pattern - Experienced but practice~~
+2. ~~Abstract Factory Pattern - Used in few situations~~
+3. Singleton Pattern - Experienced but practice
+4. Prototype Pattern - Never got a chance to practice
+5. Builder Pattern - Experienced but practice
+6. Object Pool Pattern - Not known
 
 
 #### Behavioural Pattern
